@@ -28,7 +28,10 @@ body{
     margin:auto 0;
    
 }
-
+details{
+    background-color: #9933ff;
+    border: 2px solid #4c1d7a;
+}
 h1{
     font-family: 'Orbitron', sans-serif;
     text-align: center;
@@ -46,19 +49,41 @@ h1{
 
 }
 h2{
-    color: #9933ff;
+    color: #000000;
     border: solid 100%;
     font-family:'Courier New', Courier, monospace;
     border-width: 1px;
     text-align: center;
-    border-bottom: #9933ff;
+    border-bottom: #000000;
     border-style: dashed;
+    text-shadow:0 0 10px #4c1d7a,
+    0 0 20px #9933ff,
+    0 0 30px #9933ff,
+    0 0 40px #9933ff, 
+    0 0 50px #9933ff,
+    0 0 60px #9933ff,
+    0 0 70px #9933ff,
+    0 0 80px #9933ff,
+    0 0 90px #9933ff,
+    0 0 100px #9933ff;
+
  
 }
 h3{
     color: rgb(165, 132, 207);
     text-align: bottom; 
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-shadow:0 0 10px #4c1d7a,
+    0 0 20px #9933ff,
+    0 0 30px #9933ff,
+    0 0 40px #9933ff, 
+    0 0 50px #9933ff,
+    0 0 60px #9933ff,
+    0 0 70px #9933ff,
+    0 0 80px #9933ff,
+    0 0 90px #9933ff,
+    0 0 100px #9933ff;
+
     
 }
 .accroche{
